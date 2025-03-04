@@ -1,0 +1,10 @@
+drop table "order" cascade ;
+drop table "storehouse" cascade;
+drop table "self_sale" cascade;
+drop table "offline_store" cascade;
+drop table "online_store" cascade;
+drop table "wholesaler" cascade;
+drop table "supplier" cascade;
+drop table "login0" cascade;
+drop table "client" cascade;
+drop table "empolyee" cascade;
